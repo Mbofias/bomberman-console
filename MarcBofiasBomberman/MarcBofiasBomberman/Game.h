@@ -1,0 +1,2 @@
+void InitGame();
+void UpdateGame();
